@@ -24,6 +24,10 @@
 - [2022 국립국어원 인공 지능 언어 능력 평가 대회](https://corpus.korean.go.kr/)
   + 주최: 문화체육관광부 국립국어원
   + 참가 접수: 22.10.4 ~ 11.4 
+
+- [Medical AI Challenge 2022](https://maic.or.kr)
+  + 주최: 서울대학교병원
+  + 참가 접수: 22.10.19 ~ 11.11 
   
 - [NFL Big Data Bowl 2023](https://www.kaggle.com/competitions/nfl-big-data-bowl-2023/overview/timeline)
   + 주최/주관: Kaggle
