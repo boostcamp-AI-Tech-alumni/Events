@@ -1,15 +1,55 @@
-# Events
+# Events wiki
+![깃헙 이벤트](https://user-images.githubusercontent.com/50396533/197912521-2869ec98-b3cd-435f-93fa-c587c3d49acf.png)
 
-#2022년 11월
+> AI 경진대회 및 개발자 컨퍼런스 일정 등 유용한 정보를 우리 모두의 성장을 위해 공유해 주세요!
+> 함께 만드는 커뮤니티인만큼 아래의 양식을 참고하여 다양한 정보를 나눠주세요. :) 
 
-- [국내] LGU+ 콘텐츠 추천 경진대회
-분류
-주최
-일시
-- [국내] 국방 AI 경진대회
-- [Kaggle] NFL Big Data Bowl 2023
-- [Kaggle] Feedback Prize - English Language Learning
-- [Kaggle] Novozymes Enzyme Stability Prediction
-- [Kaggle] Open Problems - Multimodal Single-Cell Integration
-- [Kaggle] 2022 Kaggle Machine Learning & Data Science Survey
-- [Kaggle] G2Net Detecting Continuous Gravitational Waves
+# 경진대회
+- [LGU+ 콘텐츠 추천 경진대회](https://github.com/UpstageAI/2022-lguplus-AI-Ground)
+  + 주최: LG U+, 주관: Upstage
+  + 참가 접수: 22.10.10 ~ 10.31
+
+- [국방 AI 경진대회](https://aiconnect.kr/competition/detail/213)
+  + 주최: 국방부, 과학기술정보통신부, 주관: 정보통신기획평가원, 한국공개소프트웨어협회, 이노베이션 아카데미
+  + 참가 접수: 22.9.30 ~ 11.2 
+  
+- [2022 국립국어원 인공 지능 언어 능력 평가 대회](https://corpus.korean.go.kr/)
+  + 주최: 문화체육관광부 국립국어원
+  + 참가 접수: 22.10.4 ~ 11.4 
+  
+- [NFL Big Data Bowl 2023](https://www.kaggle.com/competitions/nfl-big-data-bowl-2023/overview/timeline)
+  + 주최/주관: Kaggle
+  + 대회 일정: 22.10.10 ~ 23.1.9
+  
+- [Feedback Prize - English Language Learning](https://www.kaggle.com/competitions/feedback-prize-english-language-learning/overview/timeline)
+  + 주최/주관: Kaggle
+  + 참가 접수: 22.8.30 ~ 22.11.22
+  
+- [Novozymes Enzyme Stability Prediction](https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction/overview/timeline)
+  + 주최/주관: Kaggle
+  + 참가 접수: 22.9.21 ~ 22.12.27
+  
+- [Open Problems - Multimodal Single-Cell Integration](https://www.kaggle.com/competitions/open-problems-multimodal/overview/timeline)
+  + 주최/주관: Kaggle
+  + 참가 접수: 22.8.15 ~ 22.11.8
+  
+- [2022 Kaggle Machine Learning & Data Science Survey](https://www.kaggle.com/competitions/kaggle-survey-2022/discussion)
+  + 주최/주관: Kaggle
+  
+- [G2Net Detecting Continuous Gravitational Waves](https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves/overview/timeline)
+  + 주최/주관: Kaggle
+  + 참가: 22.10.4 ~ 22.12.27
+
+
+# 컨퍼런스
+- [Software Edu Fest](https://sef.connect.or.kr/2022)
+  + 주최/주관: 네이버 커넥트재단
+  + 일시: 22.11.22 ~ 11.25
+  
+- [2022 7th SK Tech SUMMIT](https://www.sktechsummit.com/)
+  + 주최/주관: SK
+  + 일시: 22.11.8 ~ 11.9 
+  
+- [네이버 DEVIEW 2023](https://deview.kr/2023/cfs)
+  + 주최/주관: 네이버
+  + 일시: 23.2.27 ~ 2.28
