@@ -72,4 +72,11 @@
   + 주최/주관: 네이버
   + 일시: 23.2.27 ~ 2.28
 
+- [Samsung Software Developer Conference 2022](https://www.ssdc.kr/)
+  + 주최/주관: 삼성전자
+  + 일시: 22.11.15 ~ 11.16
+
+- [NHN Forward 2022](https://forward.nhn.com/2022)
+  + 주최/주관: NHN
+  + 일시: 22.11.24
 # 
