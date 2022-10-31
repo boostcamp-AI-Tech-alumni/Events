@@ -53,6 +53,12 @@
   + 참가: 22.10.4 ~ 22.12.27
 
 
+# 특강 & 테크톡
+- [좋은 추천, 잘 맞는 추천, 새로운 추천 (부제: RecSys2022 논문과 함께 보는 추천 시스템)](https://www.upstage.ai/events/recsys2022)
+  + 주최/주관: 업스테이지(Upstage)
+  + 일시: 22.11.10 20:00 ~ 21:00
+  
+  
 # 컨퍼런스
 - [Software Edu Fest](https://sef.connect.or.kr/2022)
   + 주최/주관: 네이버 커넥트재단
