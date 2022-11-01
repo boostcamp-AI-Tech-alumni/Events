@@ -7,7 +7,7 @@
 # 부스트캠프 AI Tech 수료생 커뮤니티 이벤트
 |일정|이벤트명|
 |------|---|
-|2022.11.03|Welcome Again!|
+|2022.11.10|Welcome Again!|
 |2023.1월|Again 마스터클래스|
 |2023.4월|Again Tech Talk|
 
