@@ -29,6 +29,10 @@
   + 주최: 서울대학교병원
   + 참가 접수: 22.10.19 ~ 11.11 
   
+- [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
+  + 주최/주관: Kaggle
+  + 참가: 22.11.1 ~ 23.1.24
+
 - [NFL Big Data Bowl 2023](https://www.kaggle.com/competitions/nfl-big-data-bowl-2023/overview/timeline)
   + 주최/주관: Kaggle
   + 대회 일정: 22.10.10 ~ 23.1.9
