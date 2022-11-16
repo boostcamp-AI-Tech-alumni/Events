@@ -1,5 +1,5 @@
 # Events wiki
-![깃헙 이벤트](https://user-images.githubusercontent.com/50396533/197912521-2869ec98-b3cd-435f-93fa-c587c3d49acf.png)
+![깃헙 이벤트](static/header-image.png)
 
 > AI 경진대회 및 개발자 컨퍼런스 일정 등 유용한 정보를 우리 모두의 성장을 위해 공유해 주세요!
 > 함께 만드는 커뮤니티인만큼 아래의 양식을 참고하여 다양한 정보를 나눠주세요. :) 
@@ -83,4 +83,19 @@
 - [NHN Forward 2022](https://forward.nhn.com/2022)
   + 주최/주관: NHN
   + 일시: 22.11.24
-# 
+
+# 기여자 ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
