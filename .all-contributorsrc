@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "thepenielcho",
+      "name": "Peniel Cho | 조용주",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60251602?v=4",
+      "profile": "https://github.com/thepenielcho",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Events",
+  "projectOwner": "boostcamp-AI-Tech-alumni"
+}
