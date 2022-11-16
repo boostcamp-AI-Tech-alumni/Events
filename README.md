@@ -1,7 +1,4 @@
 # Events wiki
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 ![깃헙 이벤트](static/header-image.png)
 
 > AI 경진대회 및 개발자 컨퍼런스 일정 등 유용한 정보를 우리 모두의 성장을 위해 공유해 주세요!
@@ -11,8 +8,8 @@
 |일정|이벤트명|
 |------|---|
 |2022.11.10|Welcome Again!|
-|2023.1월|Again 마스터클래스|
-|2023.4월|Again Tech Talk|
+|2023.01.NN|Again 마스터클래스|
+|2023.04.NN|Again Tech Talk|
 
 
 # 경진대회
@@ -105,7 +102,6 @@
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
