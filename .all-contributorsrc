@@ -32,6 +32,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "connectfoundation",
+      "name": "커넥트재단",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50396533?v=4",
+      "profile": "https://github.com/connectfoundation",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
