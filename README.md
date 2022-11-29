@@ -26,7 +26,7 @@
   + 주최: 문화체육관광부 국립국어원
   + 참가 접수: 22.10.4 ~ 11.4 
 
-- [Medical AI Challenge 2022](https://maic.or.kr)
+- [Medical AI Challenge 2022 - Sleep AI Challenge ver.3](https://maic.or.kr)
   + 주최: 서울대학교병원
   + 참가 접수: 22.10.19 ~ 11.11 
   
@@ -57,7 +57,14 @@
   + 주최/주관: Kaggle
   + 참가: 22.10.4 ~ 22.12.27
 
+- [2022 한국어 멀티세션 데이터 해커톤 대회](https://makersweb.net/event/25175)
+  + 주최: 한국지능정보사회진흥원, 미디어젠
+  + 참가 접수: 22.11.24 ~ 22.12.7
 
+- [Medical AI Challenge 2022 - CDM Ai Challenge ver 2: Predicting Hypoxemia](https://maic.or.kr)
+  + 주최: 서울대학교병원
+  + 참가 접수: 22.11.25 ~ 12.06 
+  
 # 특강 & 테크톡
 - [좋은 추천, 잘 맞는 추천, 새로운 추천 (부제: RecSys2022 논문과 함께 보는 추천 시스템)](https://www.upstage.ai/events/recsys2022)
   + 주최/주관: 업스테이지(Upstage)
