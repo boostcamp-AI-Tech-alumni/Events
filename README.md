@@ -28,7 +28,7 @@
 
 - [Medical AI Challenge 2022](https://maic.or.kr)
   + 주최: 서울대학교병원
-  + 참가 접수: 22.10.19 ~ 11.11 
+  + 참가 접수: 22.11.25 ~ 12.06 
   
 - [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
   + 주최/주관: Kaggle
