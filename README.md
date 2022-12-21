@@ -31,8 +31,9 @@
   + 주최/주관: Kaggle
   + 참가: 22.11.1 ~ 23.1.24
 
+### 종료된 경진대회 💼
 <details>
-<summary> 종료된 경진대회 💼 </summary>
+<summary> 펼쳐서 보기 👇🏻 </summary>
 <br/>
 
 - [LGU+ 콘텐츠 추천 경진대회](https://github.com/UpstageAI/2022-lguplus-AI-Ground)
@@ -74,8 +75,10 @@
 
   
 ## 세미나 & 특강 📖
+
+### 종료된 세미나 & 특강 💼
 <details>
-<summary> 종료된 세미나 & 특강 💼 </summary>
+<summary> 펼쳐서 보기 👇🏻 </summary>
 <br/>
 - [좋은 추천, 잘 맞는 추천, 새로운 추천 (부제: RecSys2022 논문과 함께 보는 추천 시스템)](https://www.upstage.ai/events/recsys2022)
   + 주최/주관: 업스테이지(Upstage)
@@ -89,8 +92,9 @@
   + 주최/주관: 네이버
   + 일시: 23.2.27 ~ 2.28
 
+### 종료된 컨퍼런스 💼
 <details>
-<summary> 종료된 컨퍼런스 💼 </summary>
+<summary> 펼쳐서 보기 👇🏻 </summary>
 <br/>
 - [Software Edu Fest](https://sef.connect.or.kr/2022)
   + 주최/주관: 네이버 커넥트재단
