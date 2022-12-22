@@ -26,6 +26,14 @@
 - [NFL Big Data Bowl 2023](https://www.kaggle.com/competitions/nfl-big-data-bowl-2023/overview/timeline)
   + 주최/주관: Kaggle
   + 대회 일정: 22.10.10 ~ 23.1.9
+  
+- [유전체 정보 품종 분류 AI 경진대회](https://dacon.io/competitions/official/236035/overview/description)
+  + 주최: 충남대학교, 티엔티리써치, AI Frenz, 주관: 데이콘
+  + 참가: 22.12.26 ~ 23.1.16
+
+- [2023 교원그룹 AI 챌린지 <예선>](https://dacon.io/competitions/official/236042/overview/description)
+  + 주최: (주)교원, 주관: 데이콘
+  + 참가: 22.12.26 ~ 23.1.16
 
 - [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
   + 주최/주관: Kaggle
@@ -70,6 +78,10 @@
 - [2022 한국어 멀티세션 데이터 해커톤 대회](https://makersweb.net/event/25175)
   + 주최: 한국지능정보사회진흥원, 미디어젠
   + 참가 접수: 22.11.24 ~ 22.12.7
+
+- [제4회 대학생 AI x BOOKATHON 대회](https://dacon.io/competitions/official/236035/overview/description)
+  + 주최: 성균관대학교,산학연기술혁신공유협의회, 주관: 강원대학교LINC 3.0사업단, 고려대학교 LINC 3.0사업단, 성균관대학교 LINC 3.0사업단, 충남대학교 LINC 3.0사업단
+  + 참가: 22.11.07 ~ 22.12.22
 
 </details>
 
