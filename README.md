@@ -139,11 +139,12 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/thepenielcho"><img src="https://avatars.githubusercontent.com/u/60251602?v=4?s=100" width="100px;" alt="Peniel Cho &#124; 조용주"/><br /><sub><b>Peniel Cho &#124; 조용주</b></sub></a><br /><a href="https://github.com/boostcamp-AI-Tech-alumni/Events/commits?author=thepenielcho" title="Code">💻</a></td>
-      <td align="center"><a href="https://github.com/taehyeonk"><img src="https://avatars.githubusercontent.com/u/29690062?v=4?s=100" width="100px;" alt="TaeHyeon Kim"/><br /><sub><b>TaeHyeon Kim</b></sub></a><br /><a href="https://github.com/boostcamp-AI-Tech-alumni/Events/commits?author=taehyeonk" title="Code">💻</a></td>
-      <td align="center"><a href="https://github.com/howru-hayul"><img src="https://avatars.githubusercontent.com/u/96903352?v=4?s=100" width="100px;" alt="David Kim"/><br /><sub><b>David Kim</b></sub></a><br /><a href="https://github.com/boostcamp-AI-Tech-alumni/Events/commits?author=howru-hayul" title="Code">💻</a></td>
-      <td align="center"><a href="https://github.com/connectfoundation"><img src="https://avatars.githubusercontent.com/u/50396533?v=4?s=100" width="100px;" alt="커넥트재단"/><br /><sub><b>커넥트재단</b></sub></a><br /><a href="https://github.com/boostcamp-AI-Tech-alumni/Events/commits?author=connectfoundation" title="Code">💻</a></td>
-      <td align="center"><a href="https://han-bin.tistory.com"><img src="https://avatars.githubusercontent.com/u/24227863?v=4?s=100" width="100px;" alt="LEE HANBIN"/><br /><sub><b>LEE HANBIN</b></sub></a><br /><a href="https://github.com/boostcamp-AI-Tech-alumni/Events/commits?author=binlee52" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/thepenielcho"><img src="https://avatars.githubusercontent.com/u/60251602?v=4?s=100" width="100px;" alt="Peniel Cho &#124; 조용주"/><br /><sub><b>Peniel Cho &#124; 조용주</b></sub></a><br /><a href="https://github.com/boostcamp-AI-Tech-alumni/Events/commits?author=thepenielcho" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/taehyeonk"><img src="https://avatars.githubusercontent.com/u/29690062?v=4?s=100" width="100px;" alt="TaeHyeon Kim"/><br /><sub><b>TaeHyeon Kim</b></sub></a><br /><a href="https://github.com/boostcamp-AI-Tech-alumni/Events/commits?author=taehyeonk" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/howru-hayul"><img src="https://avatars.githubusercontent.com/u/96903352?v=4?s=100" width="100px;" alt="David Kim"/><br /><sub><b>David Kim</b></sub></a><br /><a href="https://github.com/boostcamp-AI-Tech-alumni/Events/commits?author=howru-hayul" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/connectfoundation"><img src="https://avatars.githubusercontent.com/u/50396533?v=4?s=100" width="100px;" alt="커넥트재단"/><br /><sub><b>커넥트재단</b></sub></a><br /><a href="https://github.com/boostcamp-AI-Tech-alumni/Events/commits?author=connectfoundation" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://han-bin.tistory.com"><img src="https://avatars.githubusercontent.com/u/24227863?v=4?s=100" width="100px;" alt="LEE HANBIN"/><br /><sub><b>LEE HANBIN</b></sub></a><br /><a href="https://github.com/boostcamp-AI-Tech-alumni/Events/commits?author=binlee52" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/seoulsky-field"><img src="https://avatars.githubusercontent.com/u/83350060?v=4?s=100" width="100px;" alt="Kyoungmin Jeon"/><br /><sub><b>Kyoungmin Jeon</b></sub></a><br /><a href="https://github.com/boostcamp-AI-Tech-alumni/Events/commits?author=seoulsky-field" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
@@ -154,5 +155,5 @@
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
