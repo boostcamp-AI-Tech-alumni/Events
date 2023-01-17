@@ -15,22 +15,6 @@
 
 ## 경진대회 🧑🏻‍💻
 
-- [NFL Big Data Bowl 2023](https://www.kaggle.com/competitions/nfl-big-data-bowl-2023/overview/timeline)
-  + 주최/주관: Kaggle
-  + 대회 일정: 22.10.10 ~ 23.1.9
-
-- [제조업 노동자 근골격계 부담요인 예방 인공지능 데이터구축 HACKATHON](https://nadomaker.space/bbs/board.php?bo_table=notice&wr_id=69)
-  + 주최: NIA, 주관: 에이치엔아이씨 (주), (주)글로비트, 나사렛대학교 산학협력단, 동의대학교 산학협력단, 부산시 기계공업 협동조합
-  + 대회 일정: 22.12.12 ~ 23.1.11
-  
-- [유전체 정보 품종 분류 AI 경진대회](https://dacon.io/competitions/official/236035/overview/description)
-  + 주최: 충남대학교, 티엔티리써치, AI Frenz, 주관: 데이콘
-  + 참가: 22.12.26 ~ 23.1.16
-
-- [2023 교원그룹 AI 챌린지 <예선>](https://dacon.io/competitions/official/236042/overview/description)
-  + 주최: (주)교원, 주관: 데이콘
-  + 참가: 22.12.26 ~ 23.1.16
-
 - [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
   + 주최/주관: Kaggle
   + 참가: 22.11.1 ~ 23.1.24
@@ -86,6 +70,22 @@
 - [G2Net Detecting Continuous Gravitational Waves](https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves/overview/timeline)
   + 주최/주관: Kaggle
   + 참가: 22.10.4 ~ 22.12.27
+  
+- [NFL Big Data Bowl 2023](https://www.kaggle.com/competitions/nfl-big-data-bowl-2023/overview/timeline)
+  + 주최/주관: Kaggle
+  + 대회 일정: 22.10.10 ~ 23.1.9
+
+- [제조업 노동자 근골격계 부담요인 예방 인공지능 데이터구축 HACKATHON](https://nadomaker.space/bbs/board.php?bo_table=notice&wr_id=69)
+  + 주최: NIA, 주관: 에이치엔아이씨 (주), (주)글로비트, 나사렛대학교 산학협력단, 동의대학교 산학협력단, 부산시 기계공업 협동조합
+  + 대회 일정: 22.12.12 ~ 23.1.11
+  
+- [유전체 정보 품종 분류 AI 경진대회](https://dacon.io/competitions/official/236035/overview/description)
+  + 주최: 충남대학교, 티엔티리써치, AI Frenz, 주관: 데이콘
+  + 참가: 22.12.26 ~ 23.1.16
+
+- [2023 교원그룹 AI 챌린지 <예선>](https://dacon.io/competitions/official/236042/overview/description)
+  + 주최: (주)교원, 주관: 데이콘
+  + 참가: 22.12.26 ~ 23.1.16
 
 </details>
 
