@@ -18,6 +18,10 @@
 - [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
   + 주최/주관: Kaggle
   + 참가: 22.11.1 ~ 23.1.24
+  
+- [RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/competitions/rsna-breast-cancer-detection/overview)
+  + 주최/주관: Kaggle, Radiological Society of North America
+  + 참가 접수: 22.11.28 ~ 23.02.20  
 
 ### 종료된 경진대회 💼
 <details>
