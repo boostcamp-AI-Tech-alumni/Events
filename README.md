@@ -15,14 +15,20 @@
 
 ## 경진대회 🧑🏻‍💻
 
-- [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
-  + 주최/주관: Kaggle
-  + 참가: 22.11.1 ~ 23.1.24
+- [제1회 Gen AI 해커톤](https://slashpage.com/@genai)
+  + 주최/주관: Primer 당근마켓 Upstage
+  + 참가 등록: 23.3.13 ~ 23.3.26
+
+
 
 ### 종료된 경진대회 💼
 <details>
 <summary> 펼쳐서 보기 👇🏻 </summary>
 <br/>
+
+- [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/overview)
+  + 주최/주관: Kaggle
+  + 참가: 22.11.1 ~ 23.1.24
 
 - [LGU+ 콘텐츠 추천 경진대회](https://github.com/UpstageAI/2022-lguplus-AI-Ground)
   + 주최: LG U+, 주관: Upstage
