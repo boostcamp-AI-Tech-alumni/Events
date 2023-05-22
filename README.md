@@ -15,7 +15,7 @@
 
 ## 경진대회 🧑🏻‍💻
 
-- [2023 현대자동차 연구개발본부 AI 경진대회]([https://slashpage.com/@genai](https://www.apply.hyundai-ai-competition.com/))
+- [2023 현대자동차 연구개발본부 AI 경진대회](https://www.apply.hyundai-ai-competition.com/)
   + 주최/주관: 현대자동차
   + 참가 등록: 23.5.15 ~ 23.6.6
 
